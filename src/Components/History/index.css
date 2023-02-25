@@ -1,0 +1,30 @@
+.li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80vw;
+  background-color: transparent;
+}
+
+.img {
+  margin-left: 50px;
+}
+.h {
+  font-size: 15px;
+  margin-left: 20px;
+  margin-right: 25px;
+}
+
+.k {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 5px;
+  border: 1px solid white;
+}
+.end {
+  margin-left: auto;
+}
